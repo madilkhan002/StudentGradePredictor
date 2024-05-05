@@ -1,4 +1,5 @@
-pandas==2.0.3
-tk==0.1.0
-matplotlib==0.1.0
-scikit-learn==1.3.2 
+pandas
+tk
+matplotlib
+scikit-learn
+openpyxl
